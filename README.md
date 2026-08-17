@@ -127,6 +127,7 @@ AI-Powered Applications
 I'm actively building projects and documenting my progress on GitHub.
 
 🚀 New projects and contributions will be added as I continue learning and developing.
+
 ---
 
 🌐 Connect With Me
