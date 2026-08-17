@@ -124,9 +124,11 @@ AI-Powered Applications
 
 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 ![Touraish's GitHub stats](https://github-readme-stats.vercel.app/api?username=touraishrizwan&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touraishrizwan&layout=compact&theme=tokyonight&hide_border=true))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touraishrizwan&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
