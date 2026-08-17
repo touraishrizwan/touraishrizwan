@@ -122,14 +122,11 @@ AI-Powered Applications
 
 ---
 
-📊 GitHub Stats
+# 📊 GitHub Activity
 
-# 📊 GitHub Stats
+I'm actively building projects and documenting my progress on GitHub.
 
-![Touraish's GitHub stats](https://github-readme-stats.vercel.app/api?username=touraishrizwan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touraishrizwan&layout=compact&theme=tokyonight&hide_border=true)
-
+🚀 New projects and contributions will be added as I continue learning and developing.
 ---
 
 🌐 Connect With Me
